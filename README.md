@@ -4,12 +4,6 @@
 - Data storytelling using real-world datasets
 - UI/UX design inspired by production applications
 - Performance analysis and insight communication
--
-- ## 🚀 Project Announcement
-
-I’m excited to share my **Spotify Music Analytics Dashboard**, an interactive Power BI project designed to analyze songs, artists, albums, and popularity trends using real-world music data.
-
-This dashboard replicates a **Spotify-inspired UI** while delivering deep analytical insights into music consumption patterns, artist performance, and song popularity across time.
 
 The project focuses on transforming raw Spotify data into **actionable insights** using DAX, advanced visuals, and interactive navigation.
 
